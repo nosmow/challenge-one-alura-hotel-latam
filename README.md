@@ -19,7 +19,6 @@
 - [Acceso al proyecto](#acceso-al-proyecto)
 - [Tecnologías utilizadas](#tecnologias-utilizadas)
 - [librerias utilizadas](#librerias-utilizadas)
-- [Javadoc](#javadoc)
 - [Autor](#autor)
 - [Licencia](#licencia)
 
@@ -93,16 +92,13 @@ El Hotel Alura conocido por su espectaculares instalaciones y paquetes promocion
 
 * `mysql-connector-j-8.0.32.jar`
 
-## Javadoc
-
-*   Clic para acceder al [**JAVADOC**](https://javadoc-hotel-alura.netlify.app/)
 
 ## Autor
 
-|  [<img src="https://avatars.githubusercontent.com/u/95858653?v=4" width=115><br><sub>Dainer Cortés</sub>](https://github.com/dainercortes) |
+|  [<img src="https://avatars.githubusercontent.com/u/165520012?v=4" width=115><br><sub>Nosmow</sub>](https://github.com/nosmow) |
 | :---: |
 
 ## Licencia
 
-> Hotel Alura está licenciado bajo la [licencia MIT](https://github.com/dainercortes/challenge-one-alura-hotel-latam/blob/main/LICENSE.md)
+> Hotel Alura está licenciado bajo la [licencia MIT](https://github.com/nosmow/challenge-one-alura-hotel-latam/blob/main/LICENSE.md)
 
